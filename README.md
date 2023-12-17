@@ -7,3 +7,4 @@ A display of the projects I have worked on.
 * Created aggregated values for each column.
 * Plotted the data.
 * Used: Selenium, Geopandas, Pandas, Matplotlib and Seaborn.
+![](https://github.com/armando-ec/AEC_Portfolio/blob/main/images/marca100.png)
