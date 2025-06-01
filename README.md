@@ -15,4 +15,4 @@ A display of the projects I have worked on.
 * Added Location, Longitude and Latitude to each row.
 * Mapped the data.
 * Used: BeautifulSoup, Geopandas, Pandas, Geopy and Matplotlib.
-* ![](/images/27_club_map.png)
+![](/images/27_club_map.png)
