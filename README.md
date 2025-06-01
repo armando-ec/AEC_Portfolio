@@ -8,3 +8,11 @@ A display of the projects I have worked on.
 * Plotted the data.
 * Used: Selenium, Geopandas, Pandas, Matplotlib and Seaborn.
 ![](/images/marca100.png)
+
+## [The 27 Club](https://github.com/armando-ec/the_27_club)
+* Scraped a Wikipedia [article](https://en.wikipedia.org/wiki/27_Club) to collect data.
+* Manually added missing data.
+* Added Location, Longitude and Latitude to each row.
+* Mapped the data.
+* Used: BeautifulSoup, Geopandas, Pandas, Geopy and Matplotlib.
+* ![](/images/the_27_club.png)
